@@ -1,2 +1,18 @@
-# RazorPay-Clone
-A front-end clone of the Razorpay website built with HTML and Tailwind CSS. This project focuses on replicating the modern, responsive design of Razorpay, using Tailwind's utility-first framework for easy customization and scalability.
+**Razorpay Clone**
+
+This project is a front-end clone of Razorpay, a popular payment gateway platform, built using **HTML** and **Tailwind CSS**. The goal of this project is to replicate the look and feel of Razorpay's website to practice modern web design techniques using Tailwind's utility-first CSS framework.
+
+*Features:*
+
+- *Responsive Design*: The clone is fully responsive, ensuring a seamless user experience across all devices.
+- *Modern UI*: Clean and minimalist design inspired by Razorpay's official website.
+- *Utility-First CSS*: Built with Tailwind CSS, making it highly customizable and scalable.
+- *HTML Structure*: Well-organized and semantic HTML for better accessibility and maintainability.
+
+*Technologies Used:*
+
+- *HTML5*
+- *Tailwind CSS*
+- *Responsive Web Design Principles*
+
+This project is ideal for developers looking to improve their skills in Tailwind CSS and responsive design. Contributions are welcome!
