@@ -19,6 +19,8 @@ This project is ideal for developers looking to improve their skills in Tailwind
 
 
 
+
+
 **Tailwind Setup**
 
 Follow these steps, to setup Tailwind:
