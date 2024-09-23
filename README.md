@@ -17,6 +17,8 @@ This project is a front-end clone of Razorpay, a popular payment gateway platfor
 
 This project is ideal for developers looking to improve their skills in Tailwind CSS and responsive design. Contributions are welcome!
 
+
+
 **Tailwind Setup**
 
 Follow these steps, to setup Tailwind:
